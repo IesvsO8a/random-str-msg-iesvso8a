@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-iesvso8a",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IesvsO8a/random-str-msg-iesvso8a.git"
+  },
+  "keywords": [],
+  "author": "Jesús Ortega Ochoa <jortegao@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IesvsO8a/random-str-msg-iesvso8a/issues"
+  },
+  "homepage": "https://github.com/IesvsO8a/random-str-msg-iesvso8a#readme",
+  "bin": {
+    "random-str-msg-iesvso8a": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
